@@ -1,0 +1,15 @@
+body{ 
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color:#7abcca ;
+    text-align: center;
+}
+#colors{ 
+    border: 5px solid black;
+    border-radius: 30px;
+    height: 90px;
+    width: 100px;
+}
+
